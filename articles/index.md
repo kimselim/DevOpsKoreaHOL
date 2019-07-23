@@ -1,4 +1,4 @@
-# Azure DevOps HOL
+# 2019년 7월 23일 (주)헤드아이티 DEMO 
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
